@@ -2,7 +2,7 @@
 
 ## The Problem
 
-When you start a project with your nice shiny docker image selected as the remote interpreter you'll probably see this.  
+When you start a project with your nice shiny docker image selected as the remote interpreter you'll probably see...  
 
 ![alt text](IMG/new_project.png)  
 
